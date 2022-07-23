@@ -1,0 +1,29 @@
+<div class="sidenav">
+  <p class="countryName" (click)="displayCountryName($event)" id="us">United States</p>
+  <p class="countryName" (click)="displayCountryName($event)" id="uk">United Kingdom</p>
+  <p class="countryName" (click)="displayCountryName($event)" id="ind">India</p>
+  <p class="countryName" (click)="displayCountryName($event)" id="can">Canada</p>
+  <p class="countryName" (click)="displayCountryName($event)" id="uae">United Arab Emirates</p>
+</div>
+<app-header></app-header>
+<div class="outerContainer" [ngClass]="imgDefault">
+  <div class="outerDiv">
+    <span class="titleClass">The selected country is : {{countryName}} </span>
+    <div class="cityListContainer">
+      <span class="subTitleClass">Select a city: </span>
+      <select class="citySelectionClass" #selectedCity (change)="onSelected()" onfocus="this.value=''">
+        <option hidden selected>---------- Select a city ---------</option>
+        <option *ngFor="let cityName of cityList">
+          {{cityName.name}}
+        </option>
+      </select>
+      <div class="weatherDetail" *ngIf="showDiv">
+        <p class="weatherInfo">Latitude: {{longitude}}</p>
+        <p class="weatherInfo">Longitude: {{latitude}}</p>
+        <p class="weatherInfo">Temperature in celsius:  {{celsiusTemp}}</p>
+        <p class="weatherInfo">Temperature in farenheit:  {{farenheitTemp}}</p>
+        <p class ="weatherInfo">Weather condition:  {{weatherCondition}}</p>
+      </div>
+    </div>
+  </div>
+</div>

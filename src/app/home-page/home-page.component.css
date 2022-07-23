@@ -1,0 +1,105 @@
+.outerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 72px;
+  left: 120px;
+  background-color: darkgrey;
+}
+
+.imgChange1 {
+  background-color: rgb(238, 174, 118);
+}
+
+.imgChange2 {
+  background-color: rgb(34, 130, 98);
+}
+
+.imgChange3 {
+  background-color: rgb(138, 137, 137);
+}
+
+.imgChange4 {
+  background-color: rgb(245, 185, 190);
+}
+
+.imgChange5 {
+  background-color: rgb(128, 221, 110);
+}
+
+.imgChange6 {
+  background-color: rgb(229, 91, 247);
+}
+
+.outerDiv {
+  height: 100%;
+  width: 70%;
+}
+
+.titleClass {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  top: 100px;
+  position: fixed;
+}
+
+.cityListContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 20%;
+  position: fixed;
+}
+
+.subTitleClass {
+  color: black;
+  font-size: 20px;
+  padding: 3px;
+}
+
+.card-body {
+  flex: 1 1 auto;
+  padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+  color: var(--bs-card-color);
+  top: 239px;
+  position: fixed;
+}
+
+.sidenav {
+  height: 100%;
+  width: 230px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #4a78e3;
+  overflow-x: hidden;
+  padding-top: 20px;
+  box-shadow: 5px 4px 8px 0 #5c5c3d, 5px 6px 20px 0 #5c5c3d;
+}
+
+.countryName {
+  color: #f1f1f1;
+  font-size: 20px;
+  word-break: break-all;
+}
+
+.weatherDetail {
+  position: fixed;
+  bottom: 200px;
+}
+
+.weatherInfo {
+  font-size: 24px;
+}
+
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+}

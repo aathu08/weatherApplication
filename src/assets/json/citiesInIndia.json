@@ -1,0 +1,126 @@
+{
+	"citiesInIndia": {
+    "countryName": "India",
+		"cities": [{
+				"cityNo": "city1",
+				"name": "Mumbai"
+			},
+			{
+				"cityNo": "city2",
+				"name": "Delhi"
+			},
+			{
+				"cityNo": "city3",
+				"name": "Bangalore"
+			},
+			{
+				"cityNo": "city4",
+				"name": "Hyderabad"
+			},
+			{
+				"cityNo": "city5",
+				"name": "Ahmedabad"
+			},
+			{
+				"cityNo": "city6",
+				"name": "Chennai"
+			},
+			{
+				"cityNo": "city7",
+				"name": "Kolkata"
+			},
+			{
+				"cityNo": "city8",
+				"name": "Surat"
+			},
+			{
+				"cityNo": "city9",
+				"name": "Pune"
+			},
+			{
+				"cityNo": "city10",
+				"name": "Jaipur"
+			},
+			{
+				"cityNo": "city11",
+				"name": "Lucknow"
+			},
+			{
+				"cityNo": "city12",
+				"name": "Kanpur"
+			},
+			{
+				"cityNo": "city13",
+				"name": "Nagpur"
+			},
+			{
+				"cityNo": "city14",
+				"name": "Indore"
+			},
+			{
+				"cityNo": "city15",
+				"name": "Thane"
+			},
+			{
+				"cityNo": "city16",
+				"name": "Bhopal"
+			},
+			{
+				"cityNo": "city17",
+				"name": "Visakhapatnam"
+			},
+			{
+				"cityNo": "city18",
+				"name": "Patna"
+			},
+			{
+				"cityNo": "city19",
+				"name": "Kochi"
+			},
+			{
+				"cityNo": "city20",
+				"name": "Thrissur"
+			},
+			{
+				"cityNo": "city21",
+				"name": "Ranchi"
+			},
+			{
+				"cityNo": "city22",
+				"name": "Agra"
+			},
+			{
+				"cityNo": "city23",
+				"name": "Amritsar"
+			},
+			{
+				"cityNo": "city24",
+				"name": "Coimbatore"
+			},
+			{
+				"cityNo": "city25",
+				"name": "Mysore"
+			},
+			{
+				"cityNo": "city26",
+				"name": "Dehradun"
+			},
+			{
+				"cityNo": "city27",
+				"name": "Noida"
+			},
+			{
+				"cityNo": "city28",
+				"name": "Udaipur"
+			},
+			{
+				"cityNo": "city29",
+				"name": "Erode"
+			},
+			{
+				"cityNo": "city30",
+				"name": "Belgaum"
+			}
+		]
+	}
+}

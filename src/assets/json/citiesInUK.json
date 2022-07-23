@@ -1,0 +1,126 @@
+{
+	"citiesInUK": {
+    "countryName": "United Kingdom",
+		"cities": [{
+				"cityNo": "city1",
+				"name": "Aberdeen"
+			},
+			{
+				"cityNo": "city2",
+				"name": "Armagh"
+			},
+			{
+				"cityNo": "city3",
+				"name": "Bangor"
+			},
+			{
+				"cityNo": "city4",
+				"name": "Bath"
+			},
+			{
+				"cityNo": "city5",
+				"name": "Belfast"
+			},
+			{
+				"cityNo": "city6",
+				"name": "Birmingham"
+			},
+			{
+				"cityNo": "city7",
+				"name": "Bradford"
+			},
+			{
+				"cityNo": "city8",
+				"name": "Cambridge"
+			},
+			{
+				"cityNo": "city9",
+				"name": "Cardiff"
+			},
+			{
+				"cityNo": "city10",
+				"name": "Chester"
+			},
+			{
+				"cityNo": "city11",
+				"name": "Derby"
+			},
+			{
+				"cityNo": "city12",
+				"name": "Durham"
+			},
+			{
+				"cityNo": "city13",
+				"name": "Exeter"
+			},
+			{
+				"cityNo": "city14",
+				"name": "Hereford"
+			},
+			{
+				"cityNo": "city15",
+				"name": "Lancaster"
+			},
+			{
+				"cityNo": "city16",
+				"name": "Leeds"
+			},
+			{
+				"cityNo": "city17",
+				"name": "Lincoln"
+			},
+			{
+				"cityNo": "city18",
+				"name": "Lisburn"
+			},
+			{
+				"cityNo": "city19",
+				"name": "Liverpool"
+			},
+			{
+				"cityNo": "city20",
+				"name": "London"
+			},
+			{
+				"cityNo": "city21",
+				"name": "Manchester"
+			},
+			{
+				"cityNo": "city22",
+				"name": "Norwich"
+			},
+			{
+				"cityNo": "city23",
+				"name": "Oxford"
+			},
+			{
+				"cityNo": "city24",
+				"name": "Salford"
+			},
+			{
+				"cityNo": "city25",
+				"name": "Salisbury"
+			},
+			{
+				"cityNo": "city26",
+				"name": "Wakefield"
+			},
+			{
+				"cityNo": "city27",
+				"name": "Wales"
+			},
+			{
+				"cityNo": "city28",
+				"name": "Westminster"
+			},
+			{
+				"cityNo": "city29",
+				"name": "Winchester"
+			},
+			{
+				"cityNo": "city30",
+				"name": "Worcester"
+			}
+		]
+	}
+}

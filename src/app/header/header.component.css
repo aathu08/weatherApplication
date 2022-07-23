@@ -1,0 +1,32 @@
+.fixedHeaderClass {
+    width: 100%;
+    height: 10%;
+    position: fixed;
+    background: #4a78e3;
+    padding: 10px 0;
+    color: #fff;
+    top: 0;
+    box-shadow: 5px 4px 8px 0 #5c5c3d, 5px 6px 20px 0 #5c5c3d;
+}
+
+.headerContainer {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.headerContainer .appLogo {
+    height: 55px;
+    width: 70px;
+    border-radius: 1em;
+    position: fixed;
+    left: 235px;
+}
+
+.headerContainer .appTitle {
+    color: #fff;
+    position: fixed;
+    left: 75px;
+    text-shadow: 5px 5px 5px rgb(241, 169, 75);
+    top: 19px;
+    left: 310px;
+}

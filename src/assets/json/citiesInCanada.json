@@ -1,0 +1,126 @@
+{
+	"citiesInCanada": {
+    "countryName": "Canada",
+		"cities": [{
+				"cityNo": "city1",
+				"name": "Kimberley"
+			},
+			{
+				"cityNo": "city2",
+				"name": "Merritt"
+			},
+			{
+				"cityNo": "city3",
+				"name": "Parksville"
+			},
+			{
+				"cityNo": "city4",
+				"name": "Nelson"
+			},
+			{
+				"cityNo": "city5",
+				"name": "Grand Forks"
+			},
+			{
+				"cityNo": "city6",
+				"name": "Greenwood"
+			},
+			{
+				"cityNo": "city7",
+				"name": "Banff"
+			},
+			{
+				"cityNo": "city8",
+				"name": "Brooks"
+			},
+			{
+				"cityNo": "city9",
+				"name": "Edmonton"
+			},
+			{
+				"cityNo": "city10",
+				"name": "Calgary"
+			},
+			{
+				"cityNo": "city11",
+				"name": "Cranbrook"
+			},
+			{
+				"cityNo": "city12",
+				"name": "Fernie"
+			},
+			{
+				"cityNo": "city13",
+				"name": "Edmundston"
+			},
+			{
+				"cityNo": "city14",
+				"name": "Kitimat"
+			},
+			{
+				"cityNo": "city15",
+				"name": "Kelowna"
+			},
+			{
+				"cityNo": "city16",
+				"name": "North Bay"
+			},
+			{
+				"cityNo": "city17",
+				"name": "Langley"
+			},
+			{
+				"cityNo": "city18",
+				"name": "Delta"
+			},
+			{
+				"cityNo": "city19",
+				"name": "Port Colborne"
+			},
+			{
+				"cityNo": "city20",
+				"name": "Sarnia"
+			},
+			{
+				"cityNo": "city21",
+				"name": "Oshawa"
+			},
+			{
+				"cityNo": "city22",
+				"name": "Norfolk County"
+			},
+			{
+				"cityNo": "city23",
+				"name": "Laval"
+			},
+			{
+				"cityNo": "city24",
+				"name": "Magog"
+			},
+			{
+				"cityNo": "city25",
+				"name": "Neuville"
+			},
+			{
+				"cityNo": "city26",
+				"name": "New Richmond"
+			},
+			{
+				"cityNo": "city27",
+				"name": "Normandin"
+			},
+			{
+				"cityNo": "city28",
+				"name": "Yorkton"
+			},
+			{
+				"cityNo": "city29",
+				"name": "Moose Jaw"
+			},
+			{
+				"cityNo": "city30",
+				"name": "Humboldt"
+			}
+		]
+	}
+}

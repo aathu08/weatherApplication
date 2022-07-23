@@ -1,0 +1,90 @@
+{
+	"citiesInUAE": {
+    "countryName": "United Arab Emirates",
+		"cities": [{
+				"cityNo": "city1",
+				"name": "Dubai"
+			},
+			{
+				"cityNo": "city2",
+				"name": "Abu Dhabi"
+			},
+			{
+				"cityNo": "city3",
+				"name": "Sharjah"
+			},
+			{
+				"cityNo": "city4",
+				"name": "Al Ain"
+			},
+			{
+				"cityNo": "city5",
+				"name": "Ajman"
+			},
+			{
+				"cityNo": "city6",
+				"name": "Ras Al Khaimah"
+			},
+			{
+				"cityNo": "city7",
+				"name": "Fujairah"
+			},
+			{
+				"cityNo": "city8",
+				"name": "Umm al-Quwain"
+			},
+			{
+				"cityNo": "city9",
+				"name": "Dibba Al-Fujairah"
+			},
+			{
+				"cityNo": "city10",
+				"name": "Khor Fakkan"
+			},
+			{
+				"cityNo": "city11",
+				"name": "Kalba"
+			},
+			{
+				"cityNo": "city12",
+				"name": "Jebel Ali"
+			},
+			{
+				"cityNo": "city13",
+				"name": "Madinat Zayed"
+			},
+			{
+				"cityNo": "city14",
+				"name": "Ruwais"
+			},
+			{
+				"cityNo": "city15",
+				"name": "Liwa Oasis"
+			},
+			{
+				"cityNo": "city16",
+				"name": "Dhaid"
+			},
+			{
+				"cityNo": "city17",
+				"name": "Ghayathi"
+			},
+			{
+				"cityNo": "city18",
+				"name": "Ar-Rams"
+			},
+			{
+				"cityNo": "city19",
+				"name": "Dibba Al-Hisn"
+			},
+			{
+				"cityNo": "city20",
+				"name": "Hatta"
+			},
+			{
+				"cityNo": "city21",
+				"name": "Al Madam"
+			}
+		]
+	}
+}
